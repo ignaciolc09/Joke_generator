@@ -26,3 +26,4 @@ print("That's all the jokes for now! Hope you enjoyed them!")
 ##hi guysss
 print("hi guysss")
 print("2nd commit test lol ignore :D")
+print("3rd commit IT WORKED! learning git was a little hard ngl :D")
